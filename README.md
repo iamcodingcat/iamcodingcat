@@ -63,6 +63,7 @@
 ### 🛠️ Open Source Contribution
 |stack|PR|description|status|
 |---|---|---|---|
-|reflex|<a href='https://github.com/reflex-dev/reflex/pull/2160'>#2160</a>|revise typo in README, CONTRIBUTION guidelines|merged|
-|gradio|<a href='https://github.com/gradio-app/gradio/pull/8529?notification_referrer_id=NT_kwDOA0Ps2rQxMTA0MzI2NDY3NTo1NDc4MzE5NA#event-13121116341'>#8529</a>|append validation of `File` component|merged|
+|feast|<a href='https://github.com/feast-dev/feast/pull/5352'>#5352</a>, <a href='https://github.com/feast-dev/feast/pull/5336'>#5336</a>|integration with aws s3 registry in Golang feature server|merged|
 |feast|<a href='https://github.com/feast-dev/feast/pull/4749#event-17134773485'>#4749</a>|add extra data type of trino as offline store in feast|merged|
+|gradio|<a href='https://github.com/gradio-app/gradio/pull/8529?notification_referrer_id=NT_kwDOA0Ps2rQxMTA0MzI2NDY3NTo1NDc4MzE5NA#event-13121116341'>#8529</a>|append validation of `File` component|merged|
+|reflex|<a href='https://github.com/reflex-dev/reflex/pull/2160'>#2160</a>|revise typo in README, CONTRIBUTION guidelines|merged|
