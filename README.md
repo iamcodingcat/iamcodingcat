@@ -14,9 +14,7 @@
 
 <h3 align="center">Contact</h3>
 <p align="center">
-  <a href="https://techblog-history-younghunjo1.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-FF6C00?style=flat-square&logo=TV Time&logoColor=white&link=https://techblog-history-younghunjo1.tistory.com/"/></a>&nbsp
    <a href="https://www.linkedin.com/in/%EC%98%81%ED%9B%88-%EC%A1%B0-3162a41a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/%EC%98%81%ED%9B%88-%EC%A1%B0-3162a41a5/"/></a>&nbsp
-  <a href="https://www.instagram.com/jo_yh181/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jo_yh181/"/></a>&nbsp
   <a href="mailto:steadyist357@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=steadyist357@gmail.com"/></a>
 
 
