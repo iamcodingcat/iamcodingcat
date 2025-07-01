@@ -21,6 +21,7 @@
 ### 🛠️ Open Source Contribution
 |stack|PR|description|status|
 |---|---|---|---|
+|feast|<a href='https://github.com/feast-dev/feast/pull/5476'>#5476</a>|fix bug, enhance using dynamodb as online store in Golang feature server|merged|
 |feast|<a href='https://github.com/feast-dev/feast/pull/5464'>#5464</a>|integrate DynamoDB as online store in Golang feature server|merged|
 |feast|<a href='https://github.com/feast-dev/feast/pull/5352'>#5352</a>, <a href='https://github.com/feast-dev/feast/pull/5336'>#5336</a>|integration with aws s3 registry in Golang feature server|merged|
 |feast|<a href='https://github.com/feast-dev/feast/pull/4749#event-17134773485'>#4749</a>|add extra data type of trino as offline store in feast|merged|
